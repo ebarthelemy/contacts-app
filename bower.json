@@ -1,0 +1,35 @@
+{
+  "name": "contacts-app",
+  "authors": [
+    "Edouard BARTHELEMY <edouard.barthelemy@gmail.com>"
+  ],
+  "description": "Contacts application UI",
+  "main": "public/main.js",
+  "keywords": [
+    "contacts"
+  ],
+  "license": "MIT",
+  "homepage": "public/index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ladda": "^0.4.2",
+    "angular-auto-validate": "^1.19.6",
+    "angular-resource": "^1.5.8",
+    "angular-spinner": "^0.8.1",
+    "angular-strap": "^2.3.9",
+    "AngularJS-Toaster": "angularjs-toaster#^2.0.0",
+    "bootstrap-additions": "^0.3.1",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3",
+    "ngInfiniteScroll": "^1.3.1",
+    "angular-ui-router": "ui-router#^0.3.1"
+  }
+}
